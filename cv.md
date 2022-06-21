@@ -12,7 +12,7 @@ I'm the very begginer in JS Front End. Just started the basic level course. Let'
 
 
 ## Skills
-Nothing for this moment
+Git
 
 
 ## Code Examples
