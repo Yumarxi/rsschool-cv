@@ -1,2 +1,2 @@
-[CV](https://yumarxi.github.io/rsschool-cv/cv)
-[CV2](https://yumarxi.github.io/rsschool-cv/)
+# rsschool-cv
+[https://yumarxi.github.io/rsschool-cv/](https://yumarxi.github.io/rsschool-cv/)
